@@ -1,12 +1,12 @@
 # Docker Basics
-##Docker commands
+## Docker commands
 https://dockerlabs.collabnix.com/docker/cheatsheet/
-###Run a new container
-####start  a new container from image 
+### Run a new container
+#### start  a new container from image 
 - docker run image
 - docker run nginx
 
-####start container and assign a name
+#### start container and assign a name
 - docker run --name containername imagenamr
 - docker run web --name nginx
 

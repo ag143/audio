@@ -8,22 +8,22 @@
 > | ------------------------------------| ---------------------------------------------------------- |--------------|
 > | **Analytics**                       | Amazon EC2, Lambda,Light Sail,Elastic Load balancing, Elastic Container Registry ||
 > | **Application Integration**         |  ||
-> | **Business Productivity **          |  ||
-> | **Containers **                     |  ||
+> | **Business Productivity**           |  ||
+> | **Containers**                      |  ||
 > | **Customer Engagement**             |  ||
-> | **Compute **                        |  ||
+> | **Compute**                         |  ||
 > | **Database**                        |  ||
 > | **Developer tools**                 |  ||
 > | **End user computing**              |  ||
 > | **Front-end web & Mobile**          |  ||
-> | **Game Tech **                      |  ||
+> | **Game Tech**                       |  ||
 > | **Internet of Things**              |  ||
-> | **Machine Learning **               |  ||
+> | **Machine Learning**                |  ||
 > | **Management & Governance**         |  ||
-> | **Media services **                 |  ||
+> | **Media services**                  |  ||
 > | **Migration & Transfer**            |  ||
-> | **Networking & Content Delivery **  |  ||
-> | **Robotics **                       |  ||
+> | **Networking & Content Delivery**   |  ||
+> | **Robotics**                        |  ||
 > | **Security, Identiry,& Compliance** |  ||
-> | **ServerLess **                     |  ||
-> | **Storage **                        |  ||
+> | **ServerLess**                      |  ||
+> | **Storage**                         |  ||

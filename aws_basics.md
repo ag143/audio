@@ -4,26 +4,26 @@
 
 ## popular AWS services
 
-> | Product category | Service | Service Name |
-> | ----------- | ----------- |--------------|
-> | Analytics | Amazon EC2, Lambda,Light Sail,Elastic Load balancing, Elastic Container Registry ||
-> | Application Integration|  ||
-> | Business Productivity |  ||
-> | Containers |  ||
-> | Customer Engagement |  ||
-> | Compute |  ||
-> | Database |  ||
-> | Developer tools |  ||
-> | End user computing |  ||
-> | Front-end web & Mobile |  ||
-> | Game Tech |  ||
-> | Internet of Things |  ||
-> | Machine Learning |  ||
-> | Management & Governance |  ||
-> | Media services |  ||
-> | Migration & Transfer |  ||
-> | Networking & Content Delivery |  ||
-> | Robotics |  ||
-> | Security, Identiry,& Compliance |  ||
-> | ServerLess |  ||
-> | Storage |  ||
+> | Product category                    | Service                                                    | Service Name |
+> | ------------------------------------| ---------------------------------------------------------- |--------------|
+> | **Analytics**                       | Amazon EC2, Lambda,Light Sail,Elastic Load balancing, Elastic Container Registry ||
+> | **Application Integration**         |  ||
+> | **Business Productivity **          |  ||
+> | **Containers **                     |  ||
+> | **Customer Engagement**             |  ||
+> | **Compute **                        |  ||
+> | **Database**                        |  ||
+> | **Developer tools**                 |  ||
+> | **End user computing**              |  ||
+> | **Front-end web & Mobile**          |  ||
+> | **Game Tech **                      |  ||
+> | **Internet of Things**              |  ||
+> | **Machine Learning **               |  ||
+> | **Management & Governance**         |  ||
+> | **Media services **                 |  ||
+> | **Migration & Transfer**            |  ||
+> | **Networking & Content Delivery **  |  ||
+> | **Robotics **                       |  ||
+> | **Security, Identiry,& Compliance** |  ||
+> | **ServerLess **                     |  ||
+> | **Storage **                        |  ||

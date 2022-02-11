@@ -6,7 +6,7 @@
 
 > | Product category                    | Service                                                    | Service Name |
 > | ------------------------------------| ---------------------------------------------------------- |--------------|
-> | **Analytics**                       | Amazon EC2, Lambda,Light Sail,Elastic Load balancing, Elastic Container Registry ||
+> | **Analytics**                       | Amazon EC2,<br> Lambda,Light Sail,Elastic Load balancing, Elastic Container Registry ||
 > | **Application Integration**         |  ||
 > | **Business Productivity**           |  ||
 > | **Containers**                      |  ||
